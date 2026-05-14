@@ -98,19 +98,22 @@ MeshOrient ──► AutoPlaneCut ──► PolyTrim
 If you use DAMOS in your research, you are kindly requested to cite it.  
 Proper citation allows the author to track the software's use and justify its continued development.
 
-> **Epitie, A.** (*year*). *DAMOS — Dental Analysis and Morphometry Open Suite* (version X.X).  
-> [Software]. Available from: [repository URL]
+> Dyowe Roig, A. E., Martínez, L. M., & Estebaranz Sánchez, F. (2025). *DAMOS — Dental Analysis and Morphometry Open Suite* (v0.1). Zenodo. https://doi.org/10.5281/zenodo.20189381
 
 A suggested BibTeX entry:
 
 ```bibtex
 @software{epitie_damos,
-  author  = {Epitie, Albert},
-  title   = {{DAMOS} -- {D}ental {A}nalysis and {M}orphometry {O}pen {S}uite},
-  year    = {2025},
-  note    = {Available at: [repository URL]}
+  author    = {Dyowe Roig, Albert Epitie and Martínez, Laura M. and Estebaranz Sánchez, Ferran},
+  title     = {{DAMOS} -- {D}ental {A}nalysis and {M}orphometry {O}pen {S}uite},
+  year      = {2025},
+  version   = {0.1},
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.20189381},
+  url       = {https://doi.org/10.5281/zenodo.20189381}
 }
 ```
+
 
 ---
 
