@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+*.spec.bak
+
+# PyInstaller
+build/
+dist/
+
+# Virtual environments
+venv_build/
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Legacy / scratch
+.py
+
+# Presentations and zip releases (too large for source repo)
+*.pptx
+*.zip
+*.js
+
+# R analysis artifacts
+.Rhistory
+.RData
+
+# Claude Code project settings
+.claude/
+
+# Test / temp files
+*.tmp
+*.bak
