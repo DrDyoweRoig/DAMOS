@@ -1,6 +1,6 @@
 {
   "title": "DAMOS: Dental Analysis and Morphometry Open Suite",
-  "description": "<p>DAMOS is a standalone desktop application for the quantitative analysis of 3D dental surface meshes. It integrates six modules covering the full pipeline from mesh orientation and preparation to morphometric characterisation and functional analysis.</p><p>Modules: MeshOrient (mesh orientation), AutoPlaneCut (occlusal plane detection and mesh trimming), PolyTrim (polygon decimation and mesh standardisation), AutoLMK (automatic and manual 3D landmark placement), AutoMorph (morphometric analysis), and FFEI (functional food environment index).</p><p>Distributed as a self-contained Windows executable requiring no Python installation.</p>",
+  "description": "<p>DAMOS is a standalone desktop application for the quantitative analysis of 3D dental surface meshes. It integrates six modules covering the full pipeline from mesh orientation and preparation to morphometric characterisation and functional analysis.</p><p>Modules: MeshOrient (mesh orientation), AutoPlaneCut (occlusal plane detection and mesh trimming), PolyTrim (polygon decimation and mesh standardisation), AutoLMK (automatic and manual 3D landmark placement), AutoMorph (morphometric characterisation: slope, relief, RFI, DNE, OPCR and bounding-box metrics), and FFEI (Food-Flow Estimation Index, watershed-based functional analysis of occlusal drainage basins).</p><p>Distributed as a self-contained Windows executable requiring no Python installation.</p>",
   "creators": [
     {
       "name": "Dyowe Roig, Albert Epitíe",
@@ -20,7 +20,7 @@
   ],
   "license": "MIT",
   "upload_type": "software",
-  "version": "0.1",
+  "version": "0.2.1",
   "language": "eng",
   "notes": "Published alongside a SoftwareX article (DOI to be added upon acceptance)."
 }
